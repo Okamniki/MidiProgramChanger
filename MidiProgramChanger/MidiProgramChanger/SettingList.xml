@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InstrumentList>
+    <Instrument>
+      <TrackName>Piccolo</TrackName>
+      <InstrumentName>73</InstrumentName>
+      <Channnel>1</Channnel>
+      <ProgramChange>73</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Flute</TrackName>
+      <InstrumentName>74</InstrumentName>
+      <Channnel>2</Channnel>
+      <ProgramChange>74</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Oboe</TrackName>
+      <InstrumentName>69</InstrumentName>
+      <Channnel>3</Channnel>
+      <ProgramChange>69</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Bassoon</TrackName>
+      <InstrumentName>71</InstrumentName>
+      <Channnel>4</Channnel>
+      <ProgramChange>71</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Es Clarinet</TrackName>
+      <InstrumentName>72</InstrumentName>
+      <Channnel>5</Channnel>
+      <ProgramChange>72</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Clarinet</TrackName>
+      <InstrumentName>72</InstrumentName>
+      <Channnel>5</Channnel>
+      <ProgramChange>72</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Alto Clarinet</TrackName>
+      <InstrumentName>72</InstrumentName>
+      <Channnel>5</Channnel>
+      <ProgramChange>72</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Bass Clarinet</TrackName>
+      <InstrumentName>72</InstrumentName>
+      <Channnel>5</Channnel>
+      <ProgramChange>72</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Soprano Sax</TrackName>
+      <InstrumentName>65</InstrumentName>
+      <Channnel>6</Channnel>
+      <ProgramChange>65</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Alto Sax</TrackName>
+      <InstrumentName>66</InstrumentName>
+      <Channnel>7</Channnel>
+      <ProgramChange>66</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Tenor Sax</TrackName>
+      <InstrumentName>67</InstrumentName>
+      <Channnel>8</Channnel>
+      <ProgramChange>67</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Bari Sax</TrackName>
+      <InstrumentName>68</InstrumentName>
+      <Channnel>9</Channnel>
+      <ProgramChange>68</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Trumpet</TrackName>
+      <InstrumentName>57</InstrumentName>
+      <Channnel>11</Channnel>
+      <ProgramChange>57</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Horn</TrackName>
+      <InstrumentName>61</InstrumentName>
+      <Channnel>12</Channnel>
+      <ProgramChange>61</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Trombone</TrackName>
+      <InstrumentName>58</InstrumentName>
+      <Channnel>13</Channnel>
+      <ProgramChange>58</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Bass Trombone</TrackName>
+      <InstrumentName>58</InstrumentName>
+      <Channnel>13</Channnel>
+      <ProgramChange>58</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Euphonium</TrackName>
+      <InstrumentName>59</InstrumentName>
+      <Channnel>14</Channnel>
+      <ProgramChange>59</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Tuba</TrackName>
+      <InstrumentName>59</InstrumentName>
+      <Channnel>14</Channnel>
+      <ProgramChange>59</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>E.B</TrackName>
+      <InstrumentName>34</InstrumentName>
+      <Channnel>15</Channnel>
+      <ProgramChange>34</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Contrabass</TrackName>
+      <InstrumentName>44</InstrumentName>
+      <Channnel>16</Channnel>
+      <ProgramChange>44</ProgramChange>
+    </Instrument>
+    <Instrument>
+      <TrackName>Drum Set</TrackName>
+      <InstrumentName>1</InstrumentName>
+      <Channnel>10</Channnel>
+      <ProgramChange>1</ProgramChange>
+    </Instrument>
+  </InstrumentList>
+</SettingList>
